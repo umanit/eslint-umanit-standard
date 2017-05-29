@@ -109,7 +109,12 @@
         "strict": [1,
             "global"
         ],
-        "valid-jsdoc": 2,
+        "valid-jsdoc": [2,
+            {
+                "requireParamDescription": false,
+                "requireReturnDescription": false
+            }
+        ],
         "wrap-regex": 1
     }
 }
