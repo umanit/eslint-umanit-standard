@@ -37,6 +37,7 @@
         "no-eq-null": 2,
         "no-eval": 1,
         "no-extra-parens": 1,
+        "no-extra-semi": 1,
         "no-floating-decimal": 1,
         "no-implicit-coercion": 2,
         "no-irregular-whitespace": 1,
